@@ -4,7 +4,7 @@
 ## About
 This repositroy contains a notebook `NY-state-spills-per-county.ipynb` analyzing data about spilling incidents of petroleum and other hazardous materials in the state of New York, US.
 
-## Results
+## Visualization
 After examining geospatial and tabular datasets, we create a choropleth map showing the number of oil spills per county in the state of New York from January to October 2023.
 This map is located in the images/ directory.
 
