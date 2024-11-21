@@ -26,6 +26,11 @@ This map is located in the `images/` directory.
 - Creating and customizing a choropleth map
 
 ## Data
+
+The data for this analysis is not housed in this repository. It was donwloaded and used locally from the New York State Department of Environmental Conservation. 
+
+## References
+
 New York State Department of Environmental Conservation (2023), *Spill Incidents* [Data file] Available from: https://data.ny.gov/Energy-Environment/Spill-Incidents/u44d-k5fk. Access date: November 3, 2023.
 
 ## Repository organization
